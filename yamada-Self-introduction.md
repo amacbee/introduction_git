@@ -7,5 +7,3 @@ TRPG(テーブルトークRPGゲーム)、ボードゲーム
 
 何か一言！
 よろしくお願いします～
-
-![yamada](/path/to/yamada.jpg)
